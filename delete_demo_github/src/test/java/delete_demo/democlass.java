@@ -7,5 +7,7 @@ public class democlass {
 	@Test
 	public void clickOnElectronics() {
 		Reporter.log("Eelctronics page is displayed",true);
+		Reporter.log("Eelctronics page is displayed",true);
+		Reporter.log("Eelctronics page is displayed",true);
 }
 }
